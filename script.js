@@ -1,0 +1,1 @@
+function showalert(){alert(welcome to my website)
